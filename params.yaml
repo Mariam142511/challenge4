@@ -1,0 +1,7 @@
+controller10:
+  ros__parameters:
+    linear_k: 0.5
+    angular_k: 1.5
+Generator_node:
+  ros__parameters:
+    figura: 'triangulo'
